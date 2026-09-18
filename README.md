@@ -223,5 +223,3 @@ OUTPUT:
 ```
 
 ---
-
-*Implementation of CRAG paper using LangGraph + LangChain + OpenAI.*
